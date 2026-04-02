@@ -1,5 +1,10 @@
 
-#Cat controll for Quansheng UV-K5v3 or UV-K1, simulates Kenwood TS-480 and have some more commands
+
+**
+
+# Fork of F4HWN firmware port for the UV-K1 and UV-K5 V3 using the PY32F071 MCU with added CAT controll
+
+**
 
 # CAT Protocol Documentation (Quansheng/Kenwood)
 
@@ -78,7 +83,9 @@ The firmware supports computer communication using ASCII commands (Kenwood proto
 * **`OV[11 digits];`** – Set the offset value in hertz (Hz).
     * **Example:** `OV00000600000;` *(Sets the frequency offset to 600 kHz / 0.6 MHz)*
 
-##Fork of F4HWN firmware port for the UV-K1 and UV-K5 V3 using the PY32F071 MCU with added CAT controll
+## KUDOS FOR EVERYONE INVOLVED!!! GREAT WORK!!!
+
+
 
 This repository is a fork of the [F4HWN custom firmware](https://github.com/armel/uv-k5-firmware-custom), who was a fork of [Egzumer custom firmware](https://github.com/egzumer/uv-k5-firmware-custom). It extends the work done for the UV-K5 V1, based on the DP32G030 MCU, and adapts it to the newer UV-K1 and UV-K5 V3 built around the PY32F071 MCU. It is the result of the joint work of [@muzkr](https://github.com/muzkr) and [@armel](https://github.com/armel).
 
