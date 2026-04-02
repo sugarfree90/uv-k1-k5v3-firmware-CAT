@@ -2,7 +2,7 @@
 
 **
 
-# Fork of F4HWN firmware port for the UV-K1 and UV-K5 V3 using the PY32F071 MCU with added CAT controll
+# Fork of F4HWN firmware port for the UV-K1 and UV-K5 V3 using the PY32F071 MCU with added CAT controll. Vibe coded with Gemini - hobby project :)
 
 **
 
